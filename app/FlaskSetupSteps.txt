@@ -1,0 +1,10 @@
+setup flask steps
+1. build virtual env
+install required python packages
+build config.py file
+build app directory
+build __init__.py file (actual flask app starting point)
+set FLASK_ENV=development
+set FLASK_APP=app
+create main blueprint
+create routes
